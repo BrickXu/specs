@@ -1,0 +1,4 @@
+ES_HOME=/opt/elasticsearch
+CONF_DIR=/etc/elasticsearch
+CONF_FILE=/etc/elasticsearch/elasticsearch.yml
+PID_DIR=/var/run/elasticsearch
